@@ -1,0 +1,18 @@
+body {
+	color: white;
+	background-color: orange;
+	background-size: cover;
+	background-position: top center;
+	font-family: 'Knewave', cursive;
+	text-shadow: 3px 3px black;
+}
+
+
+.temp {
+	font-family: 'Knewave', cursive;
+	text-shadow: 3px 3px black;
+	font-weight: 60;
+	font-size: xx-large;
+
+}
+
